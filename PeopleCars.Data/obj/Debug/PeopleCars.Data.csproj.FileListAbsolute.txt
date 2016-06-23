@@ -1,0 +1,5 @@
+c:\users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication31\PeopleCars.Data\bin\Debug\PeopleCars.Data.dll.config
+c:\users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication31\PeopleCars.Data\bin\Debug\PeopleCars.Data.dll
+c:\users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication31\PeopleCars.Data\bin\Debug\PeopleCars.Data.pdb
+c:\users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication31\PeopleCars.Data\obj\Debug\PeopleCars.Data.dll
+c:\users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication31\PeopleCars.Data\obj\Debug\PeopleCars.Data.pdb
